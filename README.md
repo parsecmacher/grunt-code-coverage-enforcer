@@ -1,4 +1,4 @@
-# grunt-code-coverage-enforcer
+# grunt-code-coverage-enforcer [![Build Status](https://travis-ci.org/parsecmacher/grunt-code-coverage-enforcer.svg?branch=master)](https://travis-ci.org/parsecmacher/grunt-code-coverage-enforcer)
 
 > Enforces code coverage thresholds for a project with lcov files. This means it works with a wide range of code coverage tools like blanketjs, istanbul, .....
 
